@@ -24,7 +24,7 @@ https://github.com/enuchi/React-Google-Apps-Script/assets/31550519/83622b83-0d0e
 
 ```bash
 git clone https://github.com/shobhit162/Finboard-Assignment.git
-cd React-Google-Apps-Script
+cd Finboard-Assignment
 yarn install
 ```
 
