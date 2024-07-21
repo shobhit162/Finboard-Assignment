@@ -85,15 +85,7 @@ https://github.com/enuchi/React-Google-Apps-Script/assets/31550519/981604ac-bdea
 
 <br/>
 
-ls tool running and displaying your app hierarchy.
 
-   <img width="100%" src="https://user-images.githubusercontent.com/31550519/110273600-ee9eae80-7f9a-11eb-9796-31353b47dfa8.gif">
-
-5. Don't forget to remove the `<script>` tag before deploying to production.
-
-</details>
-
-<br/>
 
 
 
